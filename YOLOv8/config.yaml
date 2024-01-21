@@ -1,0 +1,7 @@
+
+path:   C:\Users\jerom\Downloads\Data2023\Image_DataSet\Data # dataset root dir
+train:  images/train # train images (relative to 'path')
+val:    images/train # val images (relative to 'path')
+
+#classes
+names: [beetroot, carrot, lettuce, radish]
